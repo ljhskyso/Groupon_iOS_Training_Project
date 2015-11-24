@@ -18,3 +18,11 @@ So, what is your life, and what is your plan? LetMeKnow!!
 ## The Pitch
 
 LetMeKnow! helps customers to simplify their lives, organize their plan, and empower their ability to be on track as planned. We are dedicated to bring the intelligence born from technology to save users from drowning into too many options/information/tasks. Users deserve to know what they want to know and ONLY what they want to know.
+
+## Wireframes
+
+[Hand-drawing Wireframes, will later make a better version of these]
+https://www.dropbox.com/s/dpmbo7dfrufqcjj/Photo%20Nov%2023%2C%207%2005%2023%20PM.jpg?dl=0
+https://www.dropbox.com/s/1vcjz7pjnvujzen/Photo%20Nov%2023%2C%207%2005%2041%20PM.jpg?dl=0
+https://www.dropbox.com/s/y5tnvtscfc4zs7l/Photo%20Nov%2023%2C%207%2005%2052%20PM.jpg?dl=0
+
